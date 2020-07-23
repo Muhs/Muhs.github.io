@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: monospace;
+	max-width: 80%;
+	margin: 1em auto;
+}
+h1 {
+    text-align: center;
+}
