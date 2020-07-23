@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ALBERT BIERSTADT</title>
+    <style>
+	body {
+		background: #000000;
+		color: #FFFFFF;
+		font-family: monospace;
+		font-size: 12px;
+		max-width: 80%;
+		margin: 1em auto;
+	}
+	a:link, a:visited, p.intro a.email span.name {
+		color: #00ff00;
+		font-family: monospace;
+	}
+    </style>
+  </head>
+  <body>
+	  <p><a href="/index.html">HOME</a></p>
+    <p>ALBERT BIERSTADT (1830-1902)</p>
+	  <p>German-American painter best known for his lavish, sweeping landscapes of the American West</p>
+	  <p><a href="https://en.wikipedia.org/wiki/Albert_Bierstadt" target="_blank">WIKIPEDIA</a></p>
+    	<p>
+      <a href="https://upload.wikimedia.org/wikipedia/commons/f/ff/Albert_Bierstadt_-_Rocky_Mountain_Landscape_-_Google_Art_Project.jpg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Albert_Bierstadt_-_Rocky_Mountain_Landscape_-_Google_Art_Project.jpg/320px-Albert_Bierstadt_-_Rocky_Mountain_Landscape_-_Google_Art_Project.jpg"></a> 
+      <a href="https://upload.wikimedia.org/wikipedia/commons/5/5c/Albert_Bierstadt_-_Among_the_Sierra_Nevada%2C_California_-_Google_Art_Project.jpg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Albert_Bierstadt_-_Among_the_Sierra_Nevada%2C_California_-_Google_Art_Project.jpg/320px-Albert_Bierstadt_-_Among_the_Sierra_Nevada%2C_California_-_Google_Art_Project.jpg"></a> 
+      <a href="https://upload.wikimedia.org/wikipedia/commons/e/e6/Bierstadt_Albert_-_Yosemite_Valley.jpg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bierstadt_Albert_-_Yosemite_Valley.jpg/320px-Bierstadt_Albert_-_Yosemite_Valley.jpg"></a> 
+      <a href="https://upload.wikimedia.org/wikipedia/commons/d/d0/Albert_Bierstadt_-_Mount_Corcoran.jpg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Albert_Bierstadt_-_Mount_Corcoran.jpg/320px-Albert_Bierstadt_-_Mount_Corcoran.jpg"></a> 
+      <a href="https://upload.wikimedia.org/wikipedia/commons/6/66/Albert_Bierstadt_001.jpg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Albert_Bierstadt_001.jpg/296px-Albert_Bierstadt_001.jpg"></a> 
+      <a href="https://upload.wikimedia.org/wikipedia/commons/d/d0/Albert_Bierstadt_-_A_Storm_in_the_Rocky_Mountains%2C_Mt._Rosalie_-_Google_Art_Project.jpg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Albert_Bierstadt_-_A_Storm_in_the_Rocky_Mountains%2C_Mt._Rosalie_-_Google_Art_Project.jpg/320px-Albert_Bierstadt_-_A_Storm_in_the_Rocky_Mountains%2C_Mt._Rosalie_-_Google_Art_Project.jpg"></a> 
+      <a href="https://upload.wikimedia.org/wikipedia/commons/9/93/View_of_Donner_Lake.jpg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/View_of_Donner_Lake.jpg/177px-View_of_Donner_Lake.jpg"></a>
+	</p>
+	  <p><a href="/index.html">BACK</a></p>
+  </body>
+</html>
