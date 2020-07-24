@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CLAUDE DEBUSSY</title>
+    <style>
+	body {
+		background: #000000;
+		color: #FFFFFF;
+		font-family: monospace;
+		font-size: 12px;
+		max-width: 80%;
+		margin: 1em auto;
+	}
+	a:link, a:visited, p.intro a.email span.name {
+		color: #00ff00;
+		font-family: monospace;
+	}
+    </style>
+  </head>
+  <body>
+	  <p><a href="/index.html">HOME</a></p>
+    <p>CLAUDE DEBUSSY (1862-1918)</p>
+	  <p>French composer sometimes seen as the first Impressionist composer, although he vigorously rejected the term</p>
+	  <p><a href="https://en.wikipedia.org/wiki/Claude_Debussy" target="_blank">WIKIPEDIA</a></p>
+    <p>Clair de Lune<br>
+    <iframe src="//commons.wikimedia.org/wiki/File:Clair_de_lune_(Claude_Debussy)_Suite_bergamasque.ogg?embedplayer=yes" width="300" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
+	  <p><a href="/index.html">BACK</a></p>
+  </body>
+</html>
